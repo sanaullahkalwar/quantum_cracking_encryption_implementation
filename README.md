@@ -12,7 +12,7 @@ If a quantum computer with a sufficient number of qubits could operate without s
 
 ## Cloning
 ```bash
-$ git clone https://github.com/gcjordi/quantum_cracking_encryption.git
+$ git clone https://github.com/sanaullahkalwar/quantum_cracking_encryption_implementation.git
 ```
 
 ## Dependencies
